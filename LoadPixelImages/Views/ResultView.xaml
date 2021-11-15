@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:LoadPixelImages.Views"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             mc:Ignorable="d"
+             x:Class="LoadPixelImages.Views.ResultView">
+    <Frame
+                        Margin="8"
+                        CornerRadius="0"
+                        HasShadow="False">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                                    Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition
+                                    Height="*" />
+            </Grid.RowDefinitions>
+
+
+            <StackLayout>
+                <ffimageloading:CachedImage
+                        Grid.Row="0"
+                        Aspect="Fill"
+                        HorizontalOptions="CenterAndExpand"
+                        VerticalOptions="CenterAndExpand"
+                        Source="{Binding src.landscape}" />
+                <Label VerticalOptions="End"
+                       HorizontalOptions="End">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span
+                                                Text="Photographer:&#x0a;"
+                                                FontSize="12"
+                                                FontAttributes="Bold" />
+                            <Span
+                                                Text="{Binding photographer}" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+
+
+        </Grid>
+    </Frame>
+</ContentView>

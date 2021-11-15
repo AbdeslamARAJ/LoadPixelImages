@@ -1,0 +1,17 @@
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\Views\ImageListPage.xaml.g.cs
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.AssemblyInfoInputs.cache
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.AssemblyInfo.cs
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.csproj.CoreCompileInputs.cache
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\bin\Debug\netstandard2.0\LoadPixelImages.deps.json
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\bin\Debug\netstandard2.0\LoadPixelImages.dll
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\bin\Debug\netstandard2.0\ref\LoadPixelImages.dll
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\bin\Debug\netstandard2.0\LoadPixelImages.pdb
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.dll
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\ref\LoadPixelImages.dll
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.pdb
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\LoadPixelImages.csproj.AssemblyReference.cache
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\Views\GlobalStyles.xaml.g.cs
+C:\Users\ARAJ\source\repos\LoadPixelImages\LoadPixelImages\LoadPixelImages\obj\Debug\netstandard2.0\Views\ResultView.xaml.g.cs
